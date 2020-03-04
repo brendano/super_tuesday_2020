@@ -1,6 +1,4 @@
 Results in [results.rtf](results.rtf).
-Reproduced here:
+Main results copied here:
 
-![](https://github.com/brendano/super_tuesday_2020/raw/master/Screen%20Shot%202020-03-04%20at%201.23.13%20PM.png)
-
-![](https://github.com/brendano/super_tuesday_2020/raw/master/Screen%20Shot%202020-03-04%20at%201.32.08%20PM.png)
+![](https://github.com/brendano/super_tuesday_2020/raw/master/Screen%20Shot%202020-03-04%20at%204.34.24%20PM)
