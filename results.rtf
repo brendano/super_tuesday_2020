@@ -1,0 +1,97 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 Cousine;}
+{\colortbl;\red255\green255\blue255;\red152\green152\blue152;\red189\green189\blue189;\red180\green36\blue25;
+\red0\green0\blue233;}
+\margl1440\margr1440\vieww11960\viewh14500\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 \CocoaLigature0 2020-03-04 by Brendan O'Connor\
+Biden-Sanders margins, averaged over all Super Tuesday states, conditional on voter attributes (from exit polls).\
+Attributes are shown in order of how polarized/sorted-by they are -- how much variability of the margin is explained by the attribute (std devation).  
+\b Age the most polarizing attribute
+\b0 !  More so than political ideology, race, party, or especially education status.
+\f1 \
+\
+   attrib         value                           allstatebs totshare     sd\
+   \cf2 <chr>\cf0           \cf2 <chr>\cf0                                 \cf2 <dbl>\cf0     \cf2 <dbl>\cf0   \cf2 <dbl>\cf0 \
+\cf3  1\cf0  AGE            18-29                              -\cf4 43.5\cf0      0.142  25.9  \
+\cf3  2\cf0  AGE            30-44                              -\cf4 27.0\cf0      0.228  25.9  \
+\cf3  3\cf0  AGE            45-64                               12.8     0.353  25.9  \
+\cf3  4\cf0  AGE            65 or over                          25.4     0.279  25.9  \
+\
+\cf3  5\cf0  SINGLEPAYER20  Support                            -\cf4 16.4\cf0      0.564  24.2  \
+\cf3  6\cf0  SINGLEPAYER20  Oppose                              34.4     0.381  24.2  \
+\
+\cf3  7\cf0  FAVSOCIALISM   Favorable                          -\cf4 20.8\cf0      0.527  21.2  \
+\cf3  8\cf0  FAVSOCIALISM   Unfavorable                         24.9     0.367  21.2  \
+\
+\cf3  9\cf0  PHIL4          Very liberal                       -\cf4 24.3\cf0      0.250  18.5  \
+\cf3 10\cf0  PHIL4          Somewhat liberal                     4.63    0.354  18.5  \
+\cf3 11\cf0  PHIL4          Moderate or conservative            23.0     0.396  18.5  \
+\
+\cf3 12\cf0  WINORISS20     Agrees with you on major issues    -\cf4 15.7\cf0      0.349  15.0  \
+\cf3 13\cf0  WINORISS20     Can beat Donald Trump               16.1     0.618  15.0  \
+\
+\cf3 14\cf0  TIMEPRIFEWDAYS Earlier than that                   -\cf4 4.42\cf0     0.649  14.9  \
+\cf3 15\cf0  TIMEPRIFEWDAYS Last few days                       27.2     0.338  14.9  \
+\
+\cf3 16\cf0  RACE           Asian                              -\cf4 24.9\cf0      0.049\ul 4\ulnone  14.5  \
+\cf3 17\cf0  RACE           Hispanic/Latino                    -\cf4 11.7\cf0      0.194  14.5  \
+\cf3 18\cf0  RACE           White                                4.13    0.623  14.5  \
+\cf3 19\cf0  RACE           Black                               30.6     0.172  14.5  \
+\
+\cf3 20\cf0  PARTY          Independent or something else      -\cf4 12.0\cf0      0.275  11.0  \
+\cf3 21\cf0  PARTY          Democrat                            10.8     0.690  11.0  \
+\cf3 22\cf0  PARTY          Republican                          21       0.07   11.0  \
+\
+\cf3 23\cf0  ISSDEM20B      Income inequality                   -\cf4 9.26\cf0     0.208   8.20 \
+\cf3 24\cf0  ISSDEM20B      Climate change                       5.95    0.216   8.20 \
+\cf3 25\cf0  ISSDEM20B      Health care                          6.27    0.411   8.20 \
+\cf3 26\cf0  ISSDEM20B      Race relations                      20.1     0.106   8.20 \
+\
+\cf3 27\cf0  SEX            Male                                -\cf4 0.780\cf0    0.438   5.22 \
+\cf3 28\cf0  SEX            Female                               9.74    0.562   5.22 \
+\
+\cf3 29\cf0  EDUCCOLL       College graduate                     4.74    0.489   0.119\
+\cf3 30\cf0  EDUCCOLL       No college degree                    4.98    0.511   0.119\
+\
+\
+
+\f0 Exit poll data for margins conditional on subgroups by state all from:\
+\pard\pardeftab720\sl280\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://www.washingtonpost.com/graphics/politics/exit-polls-2020-super-tuesday-primary/"}}{\fldrslt \cf5 \expnd0\expndtw0\kerning0
+\ul \ulc5 \CocoaLigature1 https://www.washingtonpost.com/graphics/politics/exit-polls-2020-super-tuesday-primary/}}\cf5 \expnd0\expndtw0\kerning0
+\ul \ulc5 \CocoaLigature1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \kerning1\expnd0\expndtw0 \ulnone \CocoaLigature0 \
+These were calculated via weighting by state size -- specifically, total number of votes (so far, as of today at ~1pm according to NYT website).\
+You get slightly different results, looking worse for Sanders, if we use flat averaging (presumably since Calif counts for less).\
+'totshare' is the fraction of voters with this attribute-value pair; they should sum to 1 across values of a single attribute.\
+'sd' is the standard deviation of the margin across types of voters; it's weighted by totshare\
+for each attr:\
+  avg margin = weighted mean of margin, weighted by num voters\
+  variance = weighted mean of sq. diff of per-attrvalue margin vs. avg margin, weighted by num voters\
+  sd = sqrt of variance\
+\
+Vote totals from the elections are from NYT results pages:\
+\pard\pardeftab720\sl280\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://www.nytimes.com/interactive/2020/03/03/us/elections/results-super-tuesday-primary-election.html"}}{\fldrslt \cf5 \expnd0\expndtw0\kerning0
+\ul \ulc5 \CocoaLigature1 https://www.nytimes.com/interactive/2020/03/03/us/elections/results-super-tuesday-primary-election.html}}\cf5 \expnd0\expndtw0\kerning0
+\ul \ulc5 \CocoaLigature1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \kerning1\expnd0\expndtw0 \ulnone \CocoaLigature0 \
+CSV from saving React data from WP site into data1.json then\
+% python parse2.py > d2.csv\
+\
+Analysis in 'analysis2.r':\
+# version with proper weighting\
+d=read_csv("d2.csv"); d$condcert=rowSums(d[,5:8]^2); d = d %>% filter(condcert>0); d$bs=d$biden-d$sanders\
+stot=read_excel("state_totals.xlsx",col_names=c('total','state','bla'))[,1:2]\
+\
+e=full_join(d,stot) %>% group_by(attrib,value) %>% summarise(allstatebs=(bs %*% total)/sum(total),totshare=(share/100) %*% total / sum(total))\
+\
+x=e %>% mutate(m=(allstatebs %*% totshare), sd=sqrt(((allstatebs-m)^2) %*% totshare  )) %>% mutate(m=NULL)\
+\
+e %>% full_join(x) %>% arrange(-sd,allstatebs) %>% print(n=999)\
+\
+}

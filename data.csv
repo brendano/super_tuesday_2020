@@ -1,0 +1,31 @@
+attrib,value,biden,sanders,warren,bloomberg
+SEX,Male,36,32.5,9.5,11.5
+SEX,Female,36,25.5,15.5,12.5
+RACE,White,34,26.5,15.5,12.5
+RACE,Black,57.5,17,5,14.5
+RACE,Hispanic/Latino,26,35,8,12
+RACE,Asian,14,41,9.5,15
+AGE,18-29,16.5,57.5,11,3.5
+AGE,30-44,22.5,41,18,8
+AGE,45-64,41.5,19.5,11.5,15
+AGE,65 or over,47.5,15,9.5,18.5
+PARTY,Democrat,41,26.5,14.5,12
+PARTY,Republican,43,22,3,17
+PARTY,Independent or something else,26,35.5,11,14.5
+EDUCCOLL,College graduate,34,24.5,17.5,12
+EDUCCOLL,No college degree,37,33,7.5,12
+TIMEPRIFEWDAYS,Last few days,47,17,14,14
+TIMEPRIFEWDAYS,Earlier than that,29,33,11,10
+PHIL4,Very liberal,19,48.5,20,5
+PHIL4,Somewhat liberal,38.5,28,16,10.5
+PHIL4,Moderate or conservative,46.5,16.5,6,19
+ISSDEM20B,Race relations,47.5,22,9,14
+ISSDEM20B,Health care,38.5,29.5,10,13.5
+ISSDEM20B,Climate change,34,28.5,14.5,11.5
+ISSDEM20B,Income inequality,28,35,17.5,9
+WINORISS20,Agrees with you on major issues,25,38.5,12,12
+WINORISS20,Can beat Donald Trump,43,22.5,13.5,13
+SINGLEPAYER20,Support,25.5,40,15,9
+SINGLEPAYER20,Oppose,48.5,11,8,17.5
+FAVSOCIALISM,Favorable,24,41,16,9
+FAVSOCIALISM,Unfavorable,48,14,7,21

@@ -1,0 +1,325 @@
+attrib,value,state,share,biden,sanders,warren,bloomberg
+SEX,Male,AL,39,61,20,5,11
+SEX,Male,CA,45,16,37,11,14
+SEX,Male,CO,44,13,36,10,14
+SEX,Male,MA,44,34,31,17,10
+SEX,Male,ME,41,29,38,14,13
+SEX,Male,MN,42,39,37,11,9
+SEX,Male,NC,43,42,27,8,12
+SEX,Male,OK,47,38,28,11,10
+SEX,Male,TN,43,38,27,9,19
+SEX,Male,TX,44,33,34,8,16
+SEX,Male,VA,43,49,29,9,10
+SEX,Male,VT,48,24,53,8,11
+SEX,Female,AL,61,65,14,6,12
+SEX,Female,CA,55,24,31,15,17
+SEX,Female,CO,56,16,28,19,15
+SEX,Female,MA,56,34,26,24,11
+SEX,Female,ME,59,37,29,18,11
+SEX,Female,MN,58,41,25,19,8
+SEX,Female,NC,57,42,21,13,14
+SEX,Female,OK,53,35,19,16,19
+SEX,Female,TN,57,44,23,12,13
+SEX,Female,TX,56,33,27,14,15
+SEX,Female,VA,57,57,19,12,9
+SEX,Female,VT,52,20,51,16,8
+RACE,White,AL,46,57,22,7,10
+RACE,White,CA,55,21,29,17,15
+RACE,White,CO,72,14,26,18,14
+RACE,White,MA,80,36,28,21,11
+RACE,White,ME,95,34,32,17,12
+RACE,White,MN,85,42,27,17,8
+RACE,White,NC,62,34,25,14,14
+RACE,White,OK,79,34,23,15,16
+RACE,White,TN,70,37,26,12,16
+RACE,White,TX,45,28,30,16,13
+RACE,White,VA,61,48,23,14,11
+RACE,White,VT,94,22,51,13,9
+RACE,Black,AL,49,72,10,4,13
+RACE,Black,CA,7,33,16,11,23
+RACE,Black,CO,6,0,0,0,0
+RACE,Black,MA,7,36,29,14,16
+RACE,Black,ME,1,0,0,0,0
+RACE,Black,MN,6,47,43,5,5
+RACE,Black,NC,27,62,17,5,12
+RACE,Black,OK,4,0,0,0,0
+RACE,Black,TN,26,57,19,4,16
+RACE,Black,TX,20,58,15,6,16
+RACE,Black,VA,28,69,17,5,8
+RACE,Black,VT,2,0,0,0,0
+RACE,Hispanic/Latino,AL,3,0,0,0,0
+RACE,Hispanic/Latino,CA,27,19,49,7,12
+RACE,Hispanic/Latino,CO,18,0,0,0,0
+RACE,Hispanic/Latino,MA,9,21,34,17,7
+RACE,Hispanic/Latino,ME,2,0,0,0,0
+RACE,Hispanic/Latino,MN,4,0,0,0,0
+RACE,Hispanic/Latino,NC,6,43,35,9,8
+RACE,Hispanic/Latino,OK,7,0,0,0,0
+RACE,Hispanic/Latino,TN,2,0,0,0,0
+RACE,Hispanic/Latino,TX,32,26,39,8,20
+RACE,Hispanic/Latino,VA,6,46,33,6,12
+RACE,Hispanic/Latino,VT,2,0,0,0,0
+RACE,Asian,AL,0,0,0,0,0
+RACE,Asian,CA,7,12,27,9,23
+RACE,Asian,CO,1,0,0,0,0
+RACE,Asian,MA,3,0,0,0,0
+RACE,Asian,ME,1,0,0,0,0
+RACE,Asian,MN,3,0,0,0,0
+RACE,Asian,NC,1,0,0,0,0
+RACE,Asian,OK,1,0,0,0,0
+RACE,Asian,TN,1,0,0,0,0
+RACE,Asian,TX,2,16,55,10,7
+RACE,Asian,VA,3,0,0,0,0
+RACE,Asian,VT,1,0,0,0,0
+AGE,18-29,AL,10,30,46,10,12
+AGE,18-29,CA,14,5,57,12,2
+AGE,18-29,CO,11,0,0,0,0
+AGE,18-29,MA,16,21,51,21,3
+AGE,18-29,OK,10,0,0,0,0
+AGE,18-29,TN,11,16,63,11,3
+AGE,18-29,TX,15,13,58,9,9
+AGE,30-44,AL,23,54,24,8,9
+AGE,30-44,CA,25,9,52,18,9
+AGE,30-44,CO,20,8,46,21,4
+AGE,30-44,MA,21,22,39,27,5
+AGE,30-44,OK,23,21,47,18,9
+AGE,30-44,TN,22,25,40,16,12
+AGE,30-44,TX,22,20,42,17,8
+AGE,45-64,AL,38,67,11,7,13
+AGE,45-64,CA,33,25,24,12,20
+AGE,45-64,CO,32,16,31,14,16
+AGE,45-64,MA,36,38,21,19,15
+AGE,45-64,OK,32,41,16,15,12
+AGE,45-64,TN,40,49,16,8,18
+AGE,45-64,TX,38,42,21,11,17
+AGE,65 or over,AL,28,78,6,1,12
+AGE,65 or over,CA,28,32,16,10,21
+AGE,65 or over,CO,36,22,17,12,22
+AGE,65 or over,MA,26,47,16,17,15
+AGE,65 or over,OK,35,48,6,10,25
+AGE,65 or over,TN,28,52,13,9,20
+AGE,65 or over,TX,25,43,16,8,24
+PARTY,Democrat,AL,74,67,14,6,11
+PARTY,Democrat,CA,77,23,32,15,15
+PARTY,Democrat,CO,63,20,29,17,13
+PARTY,Democrat,MA,54,34,25,28,9
+PARTY,Democrat,ME,67,39,31,20,8
+PARTY,Democrat,MN,69,43,28,18,6
+PARTY,Democrat,NC,69,47,20,11,13
+PARTY,Democrat,OK,64,45,21,14,13
+PARTY,Democrat,TN,70,46,23,11,14
+PARTY,Democrat,TX,72,36,28,13,15
+PARTY,Democrat,VA,66,58,21,12,8
+PARTY,Democrat,VT,50,22,51,15,7
+PARTY,Republican,AL,3,0,0,0,0
+PARTY,Republican,CA,2,0,0,0,0
+PARTY,Republican,CO,0,0,0,0,0
+PARTY,Republican,MA,4,0,0,0,0
+PARTY,Republican,ME,1,0,0,0,0
+PARTY,Republican,MN,4,0,0,0,0
+PARTY,Republican,NC,3,0,0,0,0
+PARTY,Republican,OK,7,0,0,0,0
+PARTY,Republican,TN,3,0,0,0,0
+PARTY,Republican,TX,3,0,0,0,0
+PARTY,Republican,VA,7,43,22,3,17
+PARTY,Republican,VT,5,0,0,0,0
+PARTY,Independent or something else,AL,23,51,24,7,12
+PARTY,Independent or something else,CA,21,12,44,8,16
+PARTY,Independent or something else,CO,36,8,37,12,17
+PARTY,Independent or something else,MA,41,32,33,13,14
+PARTY,Independent or something else,ME,32,22,40,12,16
+PARTY,Independent or something else,MN,27,35,39,10,10
+PARTY,Independent or something else,NC,27,29,34,10,15
+PARTY,Independent or something else,OK,29,20,31,15,17
+PARTY,Independent or something else,TN,27,29,33,11,17
+PARTY,Independent or something else,TX,25,23,39,10,13
+PARTY,Independent or something else,VA,27,43,29,11,12
+PARTY,Independent or something else,VT,45,18,57,11,9
+EDUCCOLL,College graduate,AL,36,61,17,9,10
+EDUCCOLL,College graduate,CA,55,18,32,17,16
+EDUCCOLL,College graduate,CO,61,13,28,19,14
+EDUCCOLL,College graduate,MA,53,31,24,26,13
+EDUCCOLL,College graduate,ME,51,33,31,22,11
+EDUCCOLL,College graduate,MN,50,39,25,22,7
+EDUCCOLL,College graduate,NC,46,37,21,16,15
+EDUCCOLL,College graduate,OK,31,35,21,24,10
+EDUCCOLL,College graduate,TN,45,35,24,16,15
+EDUCCOLL,College graduate,TX,40,30,28,18,12
+EDUCCOLL,College graduate,VA,50,50,20,15,12
+EDUCCOLL,College graduate,VT,53,23,49,17,7
+EDUCCOLL,No college degree,AL,64,64,17,4,12
+EDUCCOLL,No college degree,CA,45,24,36,8,14
+EDUCCOLL,No college degree,CO,39,18,37,9,16
+EDUCCOLL,No college degree,MA,47,37,34,15,9
+EDUCCOLL,No college degree,ME,49,35,35,11,12
+EDUCCOLL,No college degree,MN,50,41,36,9,9
+EDUCCOLL,No college degree,NC,54,46,27,6,12
+EDUCCOLL,No college degree,OK,69,37,24,9,17
+EDUCCOLL,No college degree,TN,55,47,26,6,16
+EDUCCOLL,No college degree,TX,60,35,32,7,17
+EDUCCOLL,No college degree,VA,50,57,26,7,8
+EDUCCOLL,No college degree,VT,47,21,55,7,12
+TIMEPRIFEWDAYS,Last few days,AL,40,64,11,6,16
+TIMEPRIFEWDAYS,Last few days,CA,19,30,19,8,23
+TIMEPRIFEWDAYS,Last few days,MA,51,43,18,20,14
+TIMEPRIFEWDAYS,Last few days,ME,47,47,17,17,14
+TIMEPRIFEWDAYS,Last few days,MN,55,53,19,16,8
+TIMEPRIFEWDAYS,Last few days,NC,32,53,22,11,12
+TIMEPRIFEWDAYS,Last few days,OK,50,41,15,16,18
+TIMEPRIFEWDAYS,Last few days,TN,28,61,15,8,14
+TIMEPRIFEWDAYS,Last few days,TX,24,45,16,14,16
+TIMEPRIFEWDAYS,Last few days,VA,49,59,17,12,10
+TIMEPRIFEWDAYS,Last few days,VT,38,35,32,14,13
+TIMEPRIFEWDAYS,Earlier than that,AL,59,63,20,5,9
+TIMEPRIFEWDAYS,Earlier than that,CA,77,17,37,13,14
+TIMEPRIFEWDAYS,Earlier than that,MA,48,24,40,22,8
+TIMEPRIFEWDAYS,Earlier than that,ME,52,22,47,16,10
+TIMEPRIFEWDAYS,Earlier than that,MN,45,24,45,15,8
+TIMEPRIFEWDAYS,Earlier than that,NC,67,39,26,10,13
+TIMEPRIFEWDAYS,Earlier than that,OK,50,31,32,12,11
+TIMEPRIFEWDAYS,Earlier than that,TN,71,34,28,10,18
+TIMEPRIFEWDAYS,Earlier than that,TX,76,29,33,11,17
+TIMEPRIFEWDAYS,Earlier than that,VA,51,50,29,11,6
+TIMEPRIFEWDAYS,Earlier than that,VT,61,13,64,11,7
+PHIL4,Very liberal,AL,22,51,29,9,9
+PHIL4,Very liberal,CA,29,13,49,22,6
+PHIL4,Very liberal,CO,26,7,54,24,5
+PHIL4,Very liberal,MA,27,19,40,33,4
+PHIL4,Very liberal,ME,31,16,55,25,3
+PHIL4,Very liberal,MN,24,16,51,26,1
+PHIL4,Very liberal,NC,23,31,39,18,7
+PHIL4,Very liberal,OK,18,23,51,20,0
+PHIL4,Very liberal,TN,24,28,41,18,9
+PHIL4,Very liberal,TX,24,19,48,17,8
+PHIL4,Very liberal,VA,19,37,41,16,5
+PHIL4,Very liberal,VT,29,7,68,20,1
+PHIL4,Somewhat liberal,AL,33,58,22,8,12
+PHIL4,Somewhat liberal,CA,35,18,34,15,15
+PHIL4,Somewhat liberal,CO,40,14,28,17,14
+PHIL4,Somewhat liberal,MA,37,34,27,24,9
+PHIL4,Somewhat liberal,ME,39,38,33,20,8
+PHIL4,Somewhat liberal,MN,42,39,30,18,7
+PHIL4,Somewhat liberal,NC,36,41,23,12,13
+PHIL4,Somewhat liberal,OK,30,39,30,18,8
+PHIL4,Somewhat liberal,TN,33,39,27,10,16
+PHIL4,Somewhat liberal,TX,33,36,28,11,16
+PHIL4,Somewhat liberal,VA,34,50,22,18,8
+PHIL4,Somewhat liberal,VT,37,23,55,11,6
+PHIL4,Moderate or conservative,AL,46,71,8,3,13
+PHIL4,Moderate or conservative,CA,36,29,23,5,21
+PHIL4,Moderate or conservative,CO,34,23,20,5,21
+PHIL4,Moderate or conservative,MA,36,46,20,8,18
+PHIL4,Moderate or conservative,ME,30,48,13,6,22
+PHIL4,Moderate or conservative,MN,34,58,15,6,13
+PHIL4,Moderate or conservative,NC,41,47,16,6,18
+PHIL4,Moderate or conservative,OK,52,39,11,8,24
+PHIL4,Moderate or conservative,TN,42,49,16,8,19
+PHIL4,Moderate or conservative,TX,43,39,23,10,19
+PHIL4,Moderate or conservative,VA,47,62,17,5,13
+PHIL4,Moderate or conservative,VT,35,28,39,8,19
+ISSDEM20B,Race relations,AL,18,69,8,6,12
+ISSDEM20B,Race relations,CA,8,28,29,13,19
+ISSDEM20B,Race relations,CO,7,0,0,0,0
+ISSDEM20B,Race relations,MA,7,49,15,16,14
+ISSDEM20B,Race relations,ME,4,0,0,0,0
+ISSDEM20B,Race relations,MN,7,44,20,19,8
+ISSDEM20B,Race relations,NC,13,47,23,8,15
+ISSDEM20B,Race relations,OK,7,0,0,0,0
+ISSDEM20B,Race relations,TN,11,48,21,10,14
+ISSDEM20B,Race relations,TX,14,42,25,8,18
+ISSDEM20B,Race relations,VA,12,60,24,7,8
+ISSDEM20B,Race relations,VT,3,0,0,0,0
+ISSDEM20B,Health care,AL,47,62,15,5,15
+ISSDEM20B,Health care,CA,35,22,34,10,15
+ISSDEM20B,Health care,CO,36,18,31,12,16
+ISSDEM20B,Health care,MA,38,37,28,18,11
+ISSDEM20B,Health care,ME,45,35,34,14,13
+ISSDEM20B,Health care,MN,46,42,31,12,9
+ISSDEM20B,Health care,NC,42,43,26,9,13
+ISSDEM20B,Health care,OK,50,40,21,13,14
+ISSDEM20B,Health care,TN,44,43,27,8,17
+ISSDEM20B,Health care,TX,47,34,32,10,14
+ISSDEM20B,Health care,VA,42,55,21,10,11
+ISSDEM20B,Health care,VT,41,21,54,10,13
+ISSDEM20B,Climate change,AL,11,64,26,3,6
+ISSDEM20B,Climate change,CA,25,23,29,14,16
+ISSDEM20B,Climate change,CO,25,18,28,20,11
+ISSDEM20B,Climate change,MA,27,34,27,22,12
+ISSDEM20B,Climate change,ME,28,35,32,16,11
+ISSDEM20B,Climate change,MN,24,43,27,18,8
+ISSDEM20B,Climate change,NC,22,36,23,13,15
+ISSDEM20B,Climate change,OK,15,27,29,16,22
+ISSDEM20B,Climate change,TN,19,34,29,11,16
+ISSDEM20B,Climate change,TX,16,31,29,14,13
+ISSDEM20B,Climate change,VA,18,53,22,11,10
+ISSDEM20B,Climate change,VT,29,19,53,15,6
+ISSDEM20B,Income inequality,AL,18,53,26,10,7
+ISSDEM20B,Income inequality,CA,24,12,45,19,12
+ISSDEM20B,Income inequality,CO,23,8,41,20,13
+ISSDEM20B,Income inequality,MA,20,24,38,30,6
+ISSDEM20B,Income inequality,ME,18,22,42,27,3
+ISSDEM20B,Income inequality,MN,18,30,39,18,5
+ISSDEM20B,Income inequality,NC,19,39,25,16,11
+ISSDEM20B,Income inequality,OK,20,33,31,16,14
+ISSDEM20B,Income inequality,TN,19,37,25,20,14
+ISSDEM20B,Income inequality,TX,19,26,32,16,18
+ISSDEM20B,Income inequality,VA,22,44,28,17,7
+ISSDEM20B,Income inequality,VT,21,17,57,16,5
+WINORISS20,Agrees with you on major issues,AL,42,55,21,4,15
+WINORISS20,Agrees with you on major issues,CA,32,13,48,12,8
+WINORISS20,Agrees with you on major issues,CO,28,8,46,12,12
+WINORISS20,Agrees with you on major issues,MA,32,24,36,19,10
+WINORISS20,Agrees with you on major issues,ME,32,18,48,13,10
+WINORISS20,Agrees with you on major issues,MN,32,25,49,12,7
+WINORISS20,Agrees with you on major issues,NC,34,35,33,9,12
+WINORISS20,Agrees with you on major issues,OK,42,25,29,14,14
+WINORISS20,Agrees with you on major issues,TN,35,31,35,11,15
+WINORISS20,Agrees with you on major issues,TX,40,26,41,10,13
+WINORISS20,Agrees with you on major issues,VA,39,39,33,12,10
+WINORISS20,Agrees with you on major issues,VT,34,6,64,11,12
+WINORISS20,Can beat Donald Trump,AL,53,69,14,7,9
+WINORISS20,Can beat Donald Trump,CA,64,24,27,14,19
+WINORISS20,Can beat Donald Trump,CO,69,18,25,17,16
+WINORISS20,Can beat Donald Trump,MA,65,39,24,22,12
+WINORISS20,Can beat Donald Trump,ME,66,42,25,19,12
+WINORISS20,Can beat Donald Trump,MN,65,47,21,17,8
+WINORISS20,Can beat Donald Trump,NC,63,44,19,12,14
+WINORISS20,Can beat Donald Trump,OK,55,45,20,14,15
+WINORISS20,Can beat Donald Trump,TN,61,47,20,11,15
+WINORISS20,Can beat Donald Trump,TX,57,38,24,13,16
+WINORISS20,Can beat Donald Trump,VA,58,63,16,10,9
+WINORISS20,Can beat Donald Trump,VT,63,29,47,13,8
+SINGLEPAYER20,Support,AL,51,50,27,9,12
+SINGLEPAYER20,Support,CA,55,12,47,16,9
+SINGLEPAYER20,Support,CO,57,7,49,19,9
+SINGLEPAYER20,Support,MA,50,23,41,27,6
+SINGLEPAYER20,Support,ME,69,24,44,20,9
+SINGLEPAYER20,Support,MN,62,26,44,20,6
+SINGLEPAYER20,Support,NC,55,34,36,14,10
+SINGLEPAYER20,Support,OK,53,33,38,15,9
+SINGLEPAYER20,Support,TN,53,32,38,14,9
+SINGLEPAYER20,Support,TX,64,25,39,15,14
+SINGLEPAYER20,Support,VA,52,42,33,15,7
+SINGLEPAYER20,Support,VT,73,14,62,14,7
+SINGLEPAYER20,Oppose,AL,43,76,5,2,12
+SINGLEPAYER20,Oppose,CA,35,30,14,6,29
+SINGLEPAYER20,Oppose,CO,36,24,10,10,21
+SINGLEPAYER20,Oppose,MA,45,46,13,14,18
+SINGLEPAYER20,Oppose,ME,28,56,8,10,15
+SINGLEPAYER20,Oppose,MN,35,64,6,8,11
+SINGLEPAYER20,Oppose,NC,41,54,12,5,17
+SINGLEPAYER20,Oppose,OK,43,40,6,13,21
+SINGLEPAYER20,Oppose,TN,43,51,9,5,26
+SINGLEPAYER20,Oppose,TX,33,46,13,8,19
+SINGLEPAYER20,Oppose,VA,45,67,12,7,9
+SINGLEPAYER20,Oppose,VT,23,42,25,10,14
+FAVSOCIALISM,Favorable,CA,52,13,47,19,9
+FAVSOCIALISM,Favorable,ME,60,21,49,22,6
+FAVSOCIALISM,Favorable,NC,50,33,35,16,9
+FAVSOCIALISM,Favorable,TN,47,33,38,15,8
+FAVSOCIALISM,Favorable,TX,56,24,41,16,12
+FAVSOCIALISM,Unfavorable,CA,34,30,18,7,24
+FAVSOCIALISM,Unfavorable,ME,32,56,6,8,19
+FAVSOCIALISM,Unfavorable,NC,40,53,14,6,19
+FAVSOCIALISM,Unfavorable,TN,44,48,11,5,26
+FAVSOCIALISM,Unfavorable,TX,37,44,15,8,21
